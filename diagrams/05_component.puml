@@ -1,0 +1,19 @@
+@startuml
+package "Client" {
+  [Browser / Postman]
+}
+package "API" {
+  [LibraryApi.API]
+}
+package "Application" {
+  [LibraryApi.BLL]
+}
+package "Data" {
+  [LibraryApi.DAL]
+  database "SQLite" as db
+}
+[Browser / Postman] --> [LibraryApi.API] : HTTPS JSON
+[LibraryApi.API] --> [LibraryApi.BLL]
+[LibraryApi.BLL] --> [LibraryApi.DAL]
+[LibraryApi.DAL] --> db
+@enduml

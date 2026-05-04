@@ -1,0 +1,13 @@
+@startuml
+node "ПК розробника" {
+  artifact "LibraryApi.dll" as dll
+}
+node "Сервер / хмара" {
+  node "Kestrel" {
+    [ASP.NET 9]
+  }
+  database "library.db" as sql
+}
+dll --> [ASP.NET 9] : publish
+[ASP.NET 9] --> sql
+@enduml

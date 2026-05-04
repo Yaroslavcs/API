@@ -1,0 +1,16 @@
+@startuml
+left to right direction
+actor "Користувач" as U
+actor "Адміністратор" as A
+rectangle "Каталог книг" {
+  usecase "Переглянути список" as UC1
+  usecase "Додати книгу" as UC2
+  usecase "Видалити книгу" as UC3
+  usecase "Отримати за id" as UC4
+}
+U --> UC1
+U --> UC4
+A --> UC2
+A --> UC3
+UC2 ..> UC1 : <<include>>
+@enduml

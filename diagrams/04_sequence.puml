@@ -1,0 +1,15 @@
+@startuml
+actor Користувач
+participant "BooksController" as C
+participant "BookService" as S
+participant "IUnitOfWork" as U
+participant "AppDbContext" as D
+Користувач -> C: GET /api/books/1
+C -> S: GetByIdAsync(1)
+S -> U: Books.GetByIdAsync(1)
+U -> D: FindAsync(1)
+D --> U: Book
+U --> S: Book
+S --> C: BookDto
+C --> Користувач: 200 OK
+@enduml

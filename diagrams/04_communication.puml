@@ -1,0 +1,11 @@
+@startuml
+object ":BooksController" as bc
+object ":BookService" as bs
+object ":UnitOfWork" as uow
+object ":BookRepository" as br
+object ":Book" as b
+bc --> bs : IBookService
+bs --> uow : IUnitOfWork
+uow --> br : Books
+br ..> b : завантаження
+@enduml

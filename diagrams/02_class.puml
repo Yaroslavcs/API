@@ -1,0 +1,29 @@
+@startuml
+class Book {
+  +Id : int
+  +Title : string
+  +Author : string
+  +YearPublished : int
+}
+class AppDbContext
+class "GenericRepository~T~" as GR {
+  +GetByIdAsync(id)
+  +GetAllAsync()
+  +AddAsync(entity)
+  +Update(entity)
+  +Delete(entity)
+}
+interface IBookRepository
+class BookRepository
+interface IUnitOfWork {
+  +Books : IBookRepository
+  +SaveChangesAsync()
+}
+class UnitOfWork
+IBookRepository <|.. BookRepository
+GR <|-- BookRepository
+IUnitOfWork <|.. UnitOfWork
+AppDbContext "1" o-- "*" Book
+UnitOfWork --> IBookRepository
+BookRepository ..> Book
+@enduml

@@ -1,0 +1,14 @@
+@startuml
+|Користувач|
+start
+:GET /api/books;
+|API|
+:Виклик BookService;
+|BLL|
+:Отримати список DTO;
+|DAL|
+:Запит до БД;
+|Користувач|
+:OK JSON;
+stop
+@enduml
