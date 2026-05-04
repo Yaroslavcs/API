@@ -1,0 +1,15 @@
+C:\ТСПП\344_LibraryApi\src\LibraryApi.BLL\bin\Debug\net9.0\LibraryApi.BLL.deps.json
+C:\ТСПП\344_LibraryApi\src\LibraryApi.BLL\bin\Debug\net9.0\LibraryApi.BLL.dll
+C:\ТСПП\344_LibraryApi\src\LibraryApi.BLL\bin\Debug\net9.0\LibraryApi.BLL.pdb
+C:\ТСПП\344_LibraryApi\src\LibraryApi.BLL\bin\Debug\net9.0\LibraryApi.DAL.dll
+C:\ТСПП\344_LibraryApi\src\LibraryApi.BLL\bin\Debug\net9.0\LibraryApi.DAL.pdb
+C:\ТСПП\344_LibraryApi\src\LibraryApi.BLL\obj\Debug\net9.0\LibraryApi.BLL.csproj.AssemblyReference.cache
+C:\ТСПП\344_LibraryApi\src\LibraryApi.BLL\obj\Debug\net9.0\LibraryApi.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\ТСПП\344_LibraryApi\src\LibraryApi.BLL\obj\Debug\net9.0\LibraryApi.BLL.AssemblyInfoInputs.cache
+C:\ТСПП\344_LibraryApi\src\LibraryApi.BLL\obj\Debug\net9.0\LibraryApi.BLL.AssemblyInfo.cs
+C:\ТСПП\344_LibraryApi\src\LibraryApi.BLL\obj\Debug\net9.0\LibraryApi.BLL.csproj.CoreCompileInputs.cache
+C:\ТСПП\344_LibraryApi\src\LibraryApi.BLL\obj\Debug\net9.0\LibraryA.0BF8671C.Up2Date
+C:\ТСПП\344_LibraryApi\src\LibraryApi.BLL\obj\Debug\net9.0\LibraryApi.BLL.dll
+C:\ТСПП\344_LibraryApi\src\LibraryApi.BLL\obj\Debug\net9.0\refint\LibraryApi.BLL.dll
+C:\ТСПП\344_LibraryApi\src\LibraryApi.BLL\obj\Debug\net9.0\LibraryApi.BLL.pdb
+C:\ТСПП\344_LibraryApi\src\LibraryApi.BLL\obj\Debug\net9.0\ref\LibraryApi.BLL.dll

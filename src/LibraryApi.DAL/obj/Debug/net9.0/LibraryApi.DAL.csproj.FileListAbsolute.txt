@@ -1,0 +1,12 @@
+C:\ТСПП\344_LibraryApi\src\LibraryApi.DAL\obj\Debug\net9.0\LibraryApi.DAL.csproj.AssemblyReference.cache
+C:\ТСПП\344_LibraryApi\src\LibraryApi.DAL\obj\Debug\net9.0\LibraryApi.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\ТСПП\344_LibraryApi\src\LibraryApi.DAL\obj\Debug\net9.0\LibraryApi.DAL.AssemblyInfoInputs.cache
+C:\ТСПП\344_LibraryApi\src\LibraryApi.DAL\obj\Debug\net9.0\LibraryApi.DAL.AssemblyInfo.cs
+C:\ТСПП\344_LibraryApi\src\LibraryApi.DAL\obj\Debug\net9.0\LibraryApi.DAL.csproj.CoreCompileInputs.cache
+C:\ТСПП\344_LibraryApi\src\LibraryApi.DAL\bin\Debug\net9.0\LibraryApi.DAL.deps.json
+C:\ТСПП\344_LibraryApi\src\LibraryApi.DAL\bin\Debug\net9.0\LibraryApi.DAL.dll
+C:\ТСПП\344_LibraryApi\src\LibraryApi.DAL\bin\Debug\net9.0\LibraryApi.DAL.pdb
+C:\ТСПП\344_LibraryApi\src\LibraryApi.DAL\obj\Debug\net9.0\LibraryApi.DAL.dll
+C:\ТСПП\344_LibraryApi\src\LibraryApi.DAL\obj\Debug\net9.0\refint\LibraryApi.DAL.dll
+C:\ТСПП\344_LibraryApi\src\LibraryApi.DAL\obj\Debug\net9.0\LibraryApi.DAL.pdb
+C:\ТСПП\344_LibraryApi\src\LibraryApi.DAL\obj\Debug\net9.0\ref\LibraryApi.DAL.dll
